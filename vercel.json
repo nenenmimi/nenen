@@ -20,6 +20,11 @@
       "source": "/iLyryzipqQ",
       "destination": "https://web.whatsapp.com/",
       "permanent": true
+    },
+    {
+      "source": "/oTxvnvYXRC",
+      "destination": "https://15c0607a6337a95b91.gradio.live/",
+      "permanent": true
     }
   ]
 }
