@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "redirects": [
+    { "source": "/tk1", "destination": "https://www.facebook.com/", "permanent": true },
+    { "source": "/fb2", "destination": "https://www.tiktok.com/@bo_by_98/video/7633301111562177813", "permanent": true }
+  ]
+}
